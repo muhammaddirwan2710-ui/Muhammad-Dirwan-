@@ -1,0 +1,6 @@
+{
+  "name": "Muhammad Dirwan, S.H.",
+  "description": "Portal publikasi karya ilmiah, pendapat hukum, dan layanan konsultasi hukum professional oleh Muhammad Dirwan, S.H.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
